@@ -1,0 +1,10 @@
+
+.DS_Store
+
+cards/.idea/
+
+cards/venv/bin/
+
+cards/venv/lib/python3.7/site-packages/
+
+cards/venv/
